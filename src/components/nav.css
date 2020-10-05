@@ -1,0 +1,43 @@
+
+.mainnav
+{
+  margin-bottom: 50px; 
+
+}
+
+.navigation {
+  z-index: 100;
+  width: 100%;
+  height: 40px;
+  text-align: center;
+  background: #131312;
+  background: linear-gradient(180deg, #131312 0%, #474a47 100%);
+  position: fixed;
+  transition: all 1s ease;
+ }
+
+.navigation ul {
+  padding: 11px;
+  transition: all 1s ease; }
+
+.navigation ul a {
+  text-decoration: none;
+  color: #dee0de;
+  font-size: 15px;
+  margin-right: 30px;
+  margin-left: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 9px;
+  padding-bottom: 13px;
+  transition: all 0.5s ease-out; }
+
+.navigation ul li {
+  display: inline; }
+
+.navigation ul a:hover {
+  background: #2c8014;
+  color: #9ce69c;
+  padding-bottom: 9px;
+  border-bottom: 4px solid #9ce69c;
+ }

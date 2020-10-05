@@ -1,0 +1,89 @@
+.maindiv
+{
+  text-align: center;
+}
+
+.loginform
+{
+  height: 420px;
+  width: 576px;
+  text-align: center;
+  background-color: white;
+ display: inline-block;
+}
+
+
+.inp {
+  background-color: #f6f6f6;
+  border: none;
+  color: #0d0d0d;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  width: 60%;
+  border: 2px solid #f6f6f6;
+  -webkit-transition: all 0.5s ease-in-out;
+  -moz-transition: all 0.5s ease-in-out;
+  -ms-transition: all 0.5s ease-in-out;
+  -o-transition: all 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
+  -webkit-border-radius: 5px 5px 5px 5px;
+  border-radius: 5px 5px 5px 5px;
+  margin-top: 20px;
+}
+
+.email
+{
+  margin-top: 65px;
+}
+
+.myButton {
+  margin-top: 15px;
+	box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+	background-color:#768d87;
+	border-radius:5px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 23px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #2b665e;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+	background-color:#6c7c7c;
+  color: #ffffff;
+  text-decoration: none;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.signup
+{
+
+
+}
+
+.signup:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+.errormessage
+{
+  color: red;
+  margin-top: 10px;
+
+}

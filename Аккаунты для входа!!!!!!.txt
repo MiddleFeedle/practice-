@@ -1,0 +1,7 @@
+admin2@gmail.com 
+admin123 
+Аккаунт с правами администратора 
+
+test@gmail.com
+test123 
+Обычный аккаунт 

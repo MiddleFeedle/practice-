@@ -1,0 +1,49 @@
+
+.wide
+{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+
+}
+
+.rainbow
+{
+  height: 475px;
+  width: 614px;
+  text-align: center;
+  display: inline-block;
+
+  padding-bottom: 5px;
+  background-image: url(../img/rainbow.jpg);
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+.forvkl
+{
+  margin-top: 5px;
+  margin-bottom: 20px;
+  text-align: left;
+  width: 100%;
+}
+
+.signup
+{
+  float: left;
+  width: 230px;
+
+  background-size: 230px 35px;
+
+  background-repeat:no-repeat;
+  display: block;
+  background-image: url(../img/signin.png);
+
+  margin-left: 5px;
+  padding: 11px 15px;
+  margin-top: 5px;
+  padding-bottom: 19px;
+
+
+
+}
